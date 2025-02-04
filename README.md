@@ -7,7 +7,7 @@ Use one of this two programs:<BR>
 
 In two scenarios:  <BR>
  <BR>
-1-Replace your WIFI crefdentials. <BR>
+1-Replace your WIFI credentials. <BR>
 2-Upload to MCU via Andruino IDE.<BR>
 
 ![IMG_20250204_212008](https://github.com/user-attachments/assets/fb8d88b9-5cbc-4e06-8ef2-d047f248feb7)
