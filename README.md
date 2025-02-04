@@ -1,9 +1,9 @@
 # MCU096_SIMPLECLOCK
 Clock for MCU096 is a simple clock program, the time (UTC+1) is updated via time servers over the internet.<BR>
 <BR>
-<BR>
--The MCU096_SIMPLECLOCK.ino is for a UTC+1 time clock.<BR>
--The MCU096_SIMPLECLOCK_WORLD.ino for a worldwide clock, adjust time zone via webrowser (port 80).<BR>
+Use one of this two programs:<BR> 
+-MCU096_SIMPLECLOCK.ino for a simple UTC+1 clock.<BR>
+-MCU096_SIMPLECLOCK_WORLD.ino for a worldwide clock, adjust time zone via webrowser (port 80).<BR>
 
 In two scenarios:  <BR>
  <BR>
