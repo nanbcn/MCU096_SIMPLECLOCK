@@ -1,0 +1,2 @@
+# MCU096_SIMPLECLOCK
+Clock for MCU096
